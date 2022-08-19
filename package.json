@@ -6,7 +6,7 @@
   "homepage": "https://github.com/serverless/utils#readme",
   "author": "Serverless, Inc.",
   "dependencies": {
-    "archive-type": "^4.0.0",
+    "archive-type": "Starke/archive-type#master",
     "chalk": "^4.1.2",
     "ci-info": "^3.3.2",
     "cli-progress-footer": "^2.3.2",
